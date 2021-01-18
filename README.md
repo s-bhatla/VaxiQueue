@@ -6,10 +6,11 @@ Vaxiqueue is an algorithm based vaccine queue information app which calculates a
     Condition of Co-morbidities,
     Gender, etc.
 This app contains 7 activities :-
-    Splash Screen
-    Introduction Page
-    Information about vaccines in India
-    Main information input page
-    Input page for Co-morbidities
+    Splash Screen,
+    Introduction Page,
+    Information about vaccines in India,
+    Main information input page,
+    Input page for Co-morbidities and the
     Final Output page.
+    
 To makes things interesting we have incorporated the use of Animations and ADOBE XD to make the UI a bit more engaging.
