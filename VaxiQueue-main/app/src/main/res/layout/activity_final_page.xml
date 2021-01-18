@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient4"
+    tools:context=".FinalPage">
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="248dp"
+        android:layout_height="59dp"
+        android:layout_marginTop="136dp"
+        android:textColor="#af79b5"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.907"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="40dp"
+        android:text="YOUR POSITION IN QUEUE IS:"
+        android:textColor="@color/black"
+        android:textSize="26dp"
+        android:textStyle="bold"
+        android:paddingLeft="16dp"
+        app:layout_constraintBottom_toTopOf="@+id/textView8"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/lottieAnimationView8"
+        android:layout_width="380dp"
+        android:layout_height="310dp"
+        android:layout_marginTop="28dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.516"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView13"
+        app:lottie_autoPlay="true"
+        app:lottie_fileName="sky.json"
+        app:lottie_loop="true"></com.airbnb.lottie.LottieAnimationView>
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="252dp"
+        android:layout_height="64dp"
+        android:layout_marginTop="8dp"
+        android:text="OUT OF 1.38 BILLION PEOPLE"
+        android:textColor="#af79b5"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.685"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView8" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

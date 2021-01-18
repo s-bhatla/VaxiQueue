@@ -1,0 +1,17 @@
+com/example/vaxiqueue/UserInfo1.java
+ com.example.vaxiqueue.UserInfo1
+com/example/vaxiqueue/UserInfoMale.java
+ com.example.vaxiqueue.UserInfoMale
+com/example/vaxiqueue/BuildConfig.java
+ com.example.vaxiqueue.BuildConfig
+com/example/vaxiqueue/MainActivity.java
+ com.example.vaxiqueue.MainActivity
+com/example/vaxiqueue/FinalPage.java
+ com.example.vaxiqueue.FinalPage
+com/example/vaxiqueue/splash_screen.java
+ com.example.vaxiqueue.splash_screen
+ com.example.vaxiqueue.splash_screen$1
+com/example/vaxiqueue/UserMainInfo.java
+ com.example.vaxiqueue.UserMainInfo
+com/example/vaxiqueue/information_page.java
+ com.example.vaxiqueue.information_page

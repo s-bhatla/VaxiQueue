@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">VaxiQueue</string>
+
+
+    <string-array name="cities">
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Bangalore</item>
+        <item>Hyderabad</item>
+        <item>Ahmedabad</item>
+        <item>Chennai</item>
+        <item>Kolkata</item>
+        <item>Surat</item>
+        <item>Pune</item>
+        <item>Jaipur</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="jobs">
+        <item>Health-Care Worker</item>
+        <item>Public Safety Worker</item>
+        <item>Retail Employee</item>
+        <item>Others</item>
+
+    </string-array>
+
+</resources>
