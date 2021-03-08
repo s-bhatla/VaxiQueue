@@ -1,10 +1,11 @@
 # VaxiQueue
 
 Vaxiqueue is an algorithm based vaccine queue information app which calculates a persons approximate position in the queue of people waiting for the vaccination program . This app uses an algorithm designed specifically in context with a persons:-  
-* Age,  
-* Location,  
-* Condition of Co-morbidities,  
+* Age  
+* Location  
+* Condition of Co-morbidities  
 * Gender, etc.  
+  
 This app contains 7 activities :-  
 * Splash Screen,  
 * Introduction Page,  
