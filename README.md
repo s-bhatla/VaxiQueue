@@ -17,5 +17,7 @@ This app contains 7 activities :-
 To makes things interesting we have incorporated the use of Animations and ADOBE XD to make the UI a bit more engaging.  
   
   
+Created By :- Sidharth Bhatla and Aditya Sinha
+  
 Update :- Won the third prize at the ASJX HACKATHON 2021  
 https://devfolio.co/submissions/vaxiqueue-b994  
