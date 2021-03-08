@@ -18,8 +18,8 @@ To makes things interesting we have incorporated the use of Animations and ADOBE
   
   
 Created By :-  
-* Sidharth Bhatla (https://github.com/s-bhatla)  
-* Aditya Sinha (https://github.com/BREACH1247)  
+- Sidharth Bhatla (https://github.com/s-bhatla)  
+- Aditya Sinha (https://github.com/BREACH1247)  
   
 Update :- Won the third prize at the ASJX HACKATHON 2021  
 https://devfolio.co/submissions/vaxiqueue-b994  
